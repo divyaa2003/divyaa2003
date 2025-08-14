@@ -62,6 +62,8 @@ I believe in *"building experiences, not just applications"*.
 ## 🌐 Connect with Me
 📌 [LinkedIn](https://www.linkedin.com/in/divyaa-varshini)  
 ✉️ **Email:** varshinidivyaa@gmail.com  
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Divyaa_2003)
+
 
 ---
 
